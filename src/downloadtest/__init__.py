@@ -1,0 +1,5 @@
+from .hello import Hello
+
+
+
+__version__ = "1.0.0.dev"
